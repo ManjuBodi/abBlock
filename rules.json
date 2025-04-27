@@ -42,7 +42,7 @@
         "condition":{  "urlFilter" : "*://*youtubeads.googleapis.com/*"   }
     },
     {
-        "id":6,
+        "id":8,
         "priority":1,
         "action":{  "type":"block"  },
         "condition":{  "urlFilter" : "*://*yt3.ggpht.com/*"   }
